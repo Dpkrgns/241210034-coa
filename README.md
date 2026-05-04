@@ -1,1 +1,0 @@
-This experiment focused on designing and testing half adder, full adder, and 4-bit adder circuits using basic logic gates in Logisim. It also showed how half and full adders can be built only with NAND gates, proving NAND as a universal gate.
